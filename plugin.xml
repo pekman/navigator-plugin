@@ -15,8 +15,6 @@
 		url="https://git-wip-us.apache.org/repos/asf/cordova-plugin-geolocation.git" />
 	<dependency id="org.apache.cordova.device-orientation" commit="r0.3.6"
 		url="https://git-wip-us.apache.org/repos/asf/cordova-plugin-device-orientation.git" />
-	<dependency id="org.apache.cordova.contacts" commit="r0.2.10"
-		url="https://git-wip-us.apache.org/repos/asf/cordova-plugin-contacts.git" />
 	<dependency id="com.kolwit.pickcontact" commit="master"
 		url="https://github.com/aiksiang/com.kolwit.pickcontact.git" />
 	<dependency id="com.phonegap.plugins.barcodescanner" commit="1.1.0"

@@ -5,10 +5,10 @@
 
 	<name>HSL Navigator Plugin</name>
 	<description>Install HSL Navigator dependencies and configs</description>
-	<author>Aalto T-110.5130 - 2014 - Group2</author>
+	<author>Aalto T-110.5130 - 2015 - Group3</author>
 	<license>MIT</license>
 	<keywords>HSL,navigator,plugins</keywords>
-	<repo>https://github.com/dippi/navigator-plugin.git</repo>
+	<repo>https://github.com/pekman/navigator-plugin.git</repo>
 	<issue></issue>
 
 	<dependency id="org.apache.cordova.geolocation" commit="r0.3.7"

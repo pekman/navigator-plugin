@@ -1,7 +1,7 @@
 # Navigator Plugin
 
 Cordova Plugin to setup HSL Navigator porting  
-https://github.com/pekman/navigator-proto
+https://github.com/jannesuo/navigator-proto
 
 ## Installation
 

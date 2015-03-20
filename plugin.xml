@@ -25,7 +25,10 @@
 		url="https://github.com/mayurloved/speechrecognizer.git" />
 	<dependency id="org.apache.cordova.splashscreen" commit="r0.3.0"
 		url="https://github.com/apache/cordova-plugin-splashscreen.git" />
-		
+	<dependency id="com.jsmobile.plugins.sms"
+		commit="e937364cf4858d6a1b995cc1ca4d719ae5320eeb"
+		url="https://github.com/hazems/cordova-sms-plugin.git" />
+	
 	<platform name="android">
 		<resource-file src="icons/icon.png" target="res/drawable/icon.png" />
 		<resource-file src="icons/icon-36-ldpi.png" target="res/drawable-ldpi/icon.png" />
@@ -48,4 +51,3 @@
 		NOTE: to enable the splashscreen overwrite config.xml (you can find it in "manual" folder)
 	</info>
 </plugin>
-

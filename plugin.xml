@@ -28,6 +28,9 @@
 	<dependency id="com.jsmobile.plugins.sms"
 		commit="e937364cf4858d6a1b995cc1ca4d719ae5320eeb"
 		url="https://github.com/hazems/cordova-sms-plugin.git" />
+	<dependency id="com.phonegap.plugins.PushPlugin"
+		commit="1979d972b6ab37e28cf2077bc7ebfe706cc4dacd"
+		url="https://github.com/phonegap-build/PushPlugin.git" />
 	
 	<platform name="android">
 		<resource-file src="icons/icon.png" target="res/drawable/icon.png" />
